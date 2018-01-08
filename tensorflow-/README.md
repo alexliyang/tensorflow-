@@ -1,0 +1,2 @@
+这是我七天完成的tensorflow的学习路程
+学习了官网的tensorflow API文档和香港科技大学的tensorflow教程
